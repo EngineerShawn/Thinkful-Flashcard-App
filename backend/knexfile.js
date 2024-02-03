@@ -1,10 +1,10 @@
-require("dotenv.development").config();
-require("dotenv.production").config();
+// require("dotenv.development").config();
+// require("dotenv.production").config();
 
-const {
-    DEVELOPMENT_DATABASE_URL,
-    PRODUCTION_DATABASE_URL,
-  } = process.env;
+// const {
+//    DEVELOPMENT_DATABASE_URL,
+//    PRODUCTION_DATABASE_URL,
+//  } = process.env;
   // const URL =
   //   NODE_ENV === "production"
   //     ? PRODUCTION_DATABASE_URL
