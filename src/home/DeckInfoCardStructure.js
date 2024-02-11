@@ -6,7 +6,7 @@ function StructureInfoCard() {
   const nbsp = "\u00A0";
 
   //Skeleton text before loading
-  const skeletonText = <p className='animated-bg animated-bg-text'>{nbsp}</p>;
+  const skeletonText = <p className='animated-bg animated-bg-text'>{nbsp}loading please wait...</p>;
 
   return (
     <div className='card my-1'>
